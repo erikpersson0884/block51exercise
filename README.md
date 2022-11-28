@@ -30,6 +30,7 @@ Our old code from the previous exercise has been updated based on the contents o
             Changed some classes to be package-private (Square, Rectangle, Triangle).
     
     * Which of the SOLID-principles to these changes relate to, and how?
+  
             Single Responsibility Principle (SRP)
             Open-Close Principle (OCP)
             Dependency Inversion Principle (DIP)
