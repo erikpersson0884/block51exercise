@@ -32,7 +32,7 @@ public abstract class Shape extends JComponent {
 
     private Shape(Point center){
         this.centerPoint = center;
-   }
+    }
     public Shape(int x, int y){
         this(new Point(x,y));
     }

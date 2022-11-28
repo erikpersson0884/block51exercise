@@ -2,6 +2,7 @@ package polygons;
 
 import polygons.polygon.Polygon;
 import polygons.polygon.PolygonFactory;
+import shapes.*;
 
 import javax.swing.*;
 import java.awt.Graphics;
