@@ -12,7 +12,8 @@ public abstract class Polygon extends JComponent{
     private Polygon(Point center){
         this.centerPoint = center;
     }
-    public Polygon(int x, int y){
+    
+    Polygon(int x, int y){
         this(new Point(x,y));
     }
 
